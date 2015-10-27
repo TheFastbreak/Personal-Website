@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="97px" viewBox="0 0 60 97" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Logo" sketch:type="MSLayerGroup" transform="translate(-7.000000, -2.000000)">
+            <text id="M" fill="#000000" sketch:type="MSTextLayer" font-family="Futura" font-size="70.5599971" font-weight="420">
+                <tspan x="3.91836735" y="95.1324786">M</tspan>
+            </text>
+            <text id="D" sketch:type="MSTextLayer" transform="translate(36.214911, 23.827491) rotate(90.000000) translate(-36.214911, -23.827491) " font-family="Didot" font-size="55.8599977" font-weight="bold" fill="#000000">
+                <tspan x="13.2244898" y="42.2222222">D</tspan>
+            </text>
+            <ellipse id="Oval-1" stroke="#979797" stroke-width="0.5" fill="#000000" sketch:type="MSShapeGroup" cx="47.755102" cy="24.8354701" rx="2.69387755" ry="2.70299145"></ellipse>
+            <ellipse id="Oval-1-Copy" stroke="#979797" stroke-width="0.5" fill="#000000" sketch:type="MSShapeGroup" cx="29.6326531" cy="24.8354701" rx="2.69387755" ry="2.70299145"></ellipse>
+            <g id="tie" transform="translate(29.000000, 46.000000)" fill="#D0011B" sketch:type="MSShapeGroup">
+                <polygon id="Triangle-1" transform="translate(7.690476, 4.275000) rotate(90.000000) translate(-7.690476, -4.275000) " points="7.91666656 -2.92499989 11.8373017 11.4750001 3.54365065 11.4750001 "></polygon>
+                <polygon id="Triangle-1-Copy" transform="translate(11.309524, 4.350000) rotate(-90.000000) translate(-11.309524, -4.350000) " points="11.1587303 -2.84999986 15.5317459 11.5500001 7.08730173 11.5500001 "></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
